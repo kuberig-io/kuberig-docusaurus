@@ -112,28 +112,14 @@ class Index extends React.Component {
         </div>
     );
 
-    const FeatureCalloutGradleTasks = () => (
-        <div className={"strip strip-white features pt-6 pb-4 pt-md-14 pb-md-20"}>
-            <div className="container">
-                <div className="row justify-space-between">
-                    <div className={"col-12 col-md-7 position-relative"}>
-                        <img width="833" src={baseUrl + "img/features/kuberig-tasks.png"} />
-                    </div>
-                    <div className={"col-12 col-md-5"}>
-                        <div className={"product-text"}>
-                            <h2>Gradle Tasks</h2>
-                            <p>Get work done faster with dedicated Gradle tasks for working with environments, securing sensitive data, managing container versions.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    )
-
       const FeatureCalloutCrdReady = () => (
           <div className={"strip strip-white features pt-6 pb-4 pt-md-14 pb-md-20"}>
               <div className="container">
                   <div className="row justify-space-between">
+                      <div className={"col-12 col-md-7 position-relative"}>
+                          <img width="800" src={baseUrl + "img/features/kuberig-cert-manager-crd-example.png"} />
+
+                      </div>
                       <div className={"col-12 col-md-5"}>
                           <div className={"product-text"}>
                               <h2>CRD Ready!</h2>
@@ -144,14 +130,29 @@ class Index extends React.Component {
                               <p>The Kuberig DSL code is generated so the DSL for your favorite CRDs is just a generation away.</p>
                           </div>
                       </div>
-                      <div className={"col-12 col-md-7 position-relative"}>
-                          <img width="800" src={baseUrl + "img/features/kuberig-powerful-dsl.png"} />
 
-                      </div>
                   </div>
               </div>
           </div>
       )
+
+    const FeatureCalloutGradleTasks = () => (
+        <div className={"strip strip-white features pt-6 pb-4 pt-md-14 pb-md-20"}>
+            <div className="container">
+                <div className="row justify-space-between">
+                    <div className={"col-12 col-md-5"}>
+                        <div className={"product-text"}>
+                            <h2>Gradle Tasks</h2>
+                            <p>Get work done faster with dedicated Gradle tasks for working with environments, securing sensitive data, managing container versions.</p>
+                        </div>
+                    </div>
+                    <div className={"col-12 col-md-7 position-relative"}>
+                        <img width="833" src={baseUrl + "img/features/kuberig-tasks.png"} />
+                    </div>
+                </div>
+            </div>
+        </div>
+    )
 
     const TryOut = () => (
       <Block id="try">

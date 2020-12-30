@@ -334,7 +334,19 @@
     font-family: Roboto;
 }
 
+.navigationWrapper a {
+    font-weight: 400 !important;
+}
 
+a {
+    color: rgb( 29,110,200) !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: rgb(255, 128, 60) !important;
+    text-decoration: none !important;
+}
 
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)

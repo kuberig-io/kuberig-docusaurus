@@ -92,7 +92,7 @@ class Footer extends React.Component {
           </div>
         </section>
 
-        <section className="copyright">{this.props.config.copyright}</section>
+        <section className="copyright">Copyright © ${new Date().getFullYear()} <a href={"https://rigel.dev"}>Rigeldev BV</a></section>
       </footer>
     );
   }
