@@ -1,0 +1,30 @@
+{
+  "docs": {
+    "Getting started": [
+      "home",
+      "quick-start",
+      "dsl-intro"
+    ],
+    "Environments": [
+      "initializing-an-environment",
+      "managing-container-versions",
+      "environment-support"
+    ],
+    "Resource Coding": [
+      "coding-resources"
+    ],
+    "Code Samples": [
+      "defining-a-configmap",
+      "defining-a-secret",
+      "defining-a-deployment",
+      "defining-a-service",
+      "defining-an-ingress"
+    ],
+    "Reference": [
+      "configuration",
+      "repository-organisation",
+      "encryption-support",
+      "service-account-setup"
+    ]
+  }
+}
