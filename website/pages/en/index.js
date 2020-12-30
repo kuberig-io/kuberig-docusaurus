@@ -216,7 +216,7 @@ class Index extends React.Component {
                     <div className={"col-12 col-md-4 mb-2"}>
                         <div className={"highlight"}>
                             <div className={"highlight-image"}>
-                                <a href={"https://gitscm.com"}>
+                                <a href={"https://git-scm.com"}>
                                     <img src={baseUrl + "img/features/git-logo.svg"}
                                          className={"img-fluid"}></img>
                                 </a>
