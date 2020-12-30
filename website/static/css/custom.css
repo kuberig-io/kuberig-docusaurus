@@ -348,6 +348,14 @@ a:hover {
     text-decoration: none !important;
 }
 
+.github-corner {
+    border-bottom: 0;
+    position: fixed;
+    right: 0;
+    top: 50px;
+    z-index: 200 !important;
+}
+
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
