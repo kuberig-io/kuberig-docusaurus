@@ -1,3 +1,3 @@
 [build]
     publish = "website/build/kuberig-io"
-    command = "cd website && yarn install && yarn build"
+    command = "npm -g install yarn && cd website && yarn install && yarn build"
