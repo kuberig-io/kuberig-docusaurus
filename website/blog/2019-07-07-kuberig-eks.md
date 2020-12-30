@@ -1,5 +1,5 @@
 ---
-title: KubeRig + Elastic Kubernetes Service (Amazon EKS)
+title: Elastic Kubernetes Service (Amazon EKS)
 tags: kuberig, amazon, eks
 authorURL: https://twitter.com/teyckmans
 author: Tom Eyckmans

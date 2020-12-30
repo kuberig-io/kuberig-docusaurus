@@ -1,5 +1,5 @@
 ---
-title: KubeRig Resource Coding
+title: Resource Coding
 tags: kuberig, Kubernetes, Kotlin, dsl
 authorURL: https://twitter.com/teyckmans
 author: Tom Eyckmans

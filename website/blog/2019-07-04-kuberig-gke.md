@@ -1,5 +1,5 @@
 ---
-title: KubeRig + Google Kubernetes Engine (GKE)
+title: Google Kubernetes Engine (GKE)
 tags: kuberig, google cloud, gke
 authorURL: https://twitter.com/teyckmans
 author: Tom Eyckmans

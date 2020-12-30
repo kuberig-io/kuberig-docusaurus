@@ -1,5 +1,5 @@
 ---
-title: KubeRig + Digital Ocean Kubernetes (DOKS)
+title: Digital Ocean Kubernetes (DOKS)
 tags: kuberig, doks
 authorURL: https://twitter.com/teyckmans
 author: Tom Eyckmans

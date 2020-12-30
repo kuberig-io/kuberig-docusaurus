@@ -1,5 +1,5 @@
 ---
-title: KubeRig - The initEnvironment Task
+title: The initEnvironment Task
 tags: kuberig, init-environment
 authorURL: https://twitter.com/teyckmans
 author: Tom Eyckmans

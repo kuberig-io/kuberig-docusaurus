@@ -1,5 +1,5 @@
 ---
-title: KubeRig CircleCI setup
+title: CircleCI setup
 tags: kuberig, circleci, ci
 authorURL: https://twitter.com/teyckmans
 author: Tom Eyckmans

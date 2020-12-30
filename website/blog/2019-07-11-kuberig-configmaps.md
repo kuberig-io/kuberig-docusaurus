@@ -1,5 +1,5 @@
 ---
-title: KubeRig + ConfigMaps
+title: ConfigMaps
 tags: kuberig, configmap
 authorURL: https://twitter.com/teyckmans
 author: Tom Eyckmans

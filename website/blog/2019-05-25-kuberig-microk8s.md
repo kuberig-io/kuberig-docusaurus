@@ -1,5 +1,5 @@
 ---
-title: Kuberig + Microk8s
+title: Microk8s
 date: 2019-05-25
 authorURL: https://twitter.com/teyckmans
 author: Tom Eyckmans
