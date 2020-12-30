@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: 'Kuberig', // Title for your website.
   tagline: 'Kubernetes without the YAML-burnout!',
-  url: 'https://kuberig.io', // Your website URL
+  url: 'https://kuberig-docusaurus.netlify.app', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
