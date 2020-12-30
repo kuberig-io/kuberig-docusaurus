@@ -1,0 +1,3 @@
+[build]
+    publish = "website/build/kuberig-io"
+    command = "cd website; yarn install; yarn build"
