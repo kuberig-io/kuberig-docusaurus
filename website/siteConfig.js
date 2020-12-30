@@ -107,6 +107,8 @@ const siteConfig = {
   repoUrl: 'https://github.com/kuberig-io/kuberig',
 
   twitterUsername: 'kuberigio',
+
+  blogSidebarCount: 'ALL',
 };
 
 module.exports = siteConfig;

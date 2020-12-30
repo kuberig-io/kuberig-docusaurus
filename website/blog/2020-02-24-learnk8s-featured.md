@@ -1,14 +1,9 @@
 ---
 title: Learnk8s Featured
 date: 2020-02-24
-tags:
-- Learnk8s
-- News
-  categories:
-- News
-  authors:
-- Tom Eyckmans
-  thumbnail: /images/uploads/learnk8s-600x200.jpeg
+authorURL: https://twitter.com/teyckmans
+author: Tom Eyckmans
+authorImageURL: https://kuberig.io/authors/tom-eyckmans.jpg
 ---
 So this happened 2 days ago, [@learnk8s](https://twitter.com/learnk8s) tweeted about Kuberig! I could almost not believe it, I had to look twice!
 

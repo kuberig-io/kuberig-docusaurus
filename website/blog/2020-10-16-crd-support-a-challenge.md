@@ -1,15 +1,9 @@
 ---
 title: CRD support a challenge!
 date: 2020-10-16
-thumbnail: https://images.unsplash.com/photo-1587093336587-eeca6cb17cf2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ
-image: https://images.unsplash.com/photo-1587093336587-eeca6cb17cf2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ
-tags:
-- CRD
-- Support
-categories:
-- Development
-authors:
-- Tom Eyckmans
+authorURL: https://twitter.com/teyckmans
+author: Tom Eyckmans
+authorImageURL: https://kuberig.io/authors/tom-eyckmans.jpg
 ---
 
 With the KubeRig DSL you can easily define standard Kubernetes resources with Kotlin code which is great. But...

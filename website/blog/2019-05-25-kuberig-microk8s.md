@@ -1,12 +1,9 @@
 ---
 title: Kuberig + Microk8s
 date: 2019-05-25
-tags:
-- microk8s
-categories:
-- Development
-authors:
-- Tom Eyckmans
+authorURL: https://twitter.com/teyckmans
+author: Tom Eyckmans
+authorImageURL: https://kuberig.io/authors/tom-eyckmans.jpg
 ---
 Today I am going to show you how easy it is to get started with KubeRig and microk8s.
 
