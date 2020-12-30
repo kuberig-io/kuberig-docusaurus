@@ -34,6 +34,14 @@ function Help(props) {
       content: "Ask a question on [Stack Overflow](https://stackoverflow.com/questions/ask?tags=kuberig)",
       title: 'Ask a question',
     },
+    {
+      content: "Ask a question on [Twitter](https://twitter.com/teyckmans)",
+      title: 'Twitter'
+    },
+    {
+      content: 'Github Discussions is available on the [Kuberig repository](https://github.com/kuberig-io/kuberig/discussions)',
+      title: 'GitHub Discussions'
+    }
   ];
 
   return (
@@ -43,8 +51,8 @@ function Help(props) {
           <header className="postHeader">
             <h1>Need help?</h1>
           </header>
-          <p>This project is maintained by a dedicated group of people.</p>
-          <GridBlock contents={supportLinks} layout="threeColumn" />
+          <p>Here are some options to get help.</p>
+          <GridBlock contents={supportLinks} layout="twoColumn" />
         </div>
       </Container>
     </div>
