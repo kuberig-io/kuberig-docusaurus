@@ -14,15 +14,26 @@ KubeRig makes it easy to include environment specific files and values.
 
 # Prerequisites
 
-You have a working [local development](https://rigel.dev/kuberig-microk8s/) environment.
+You have a working [local development](/blog/2019/05/25/kuberig-microk8s) environment.
 
-If KubeRig is new for you, you may also want to read [KubeRig Resource Coding](https://rigel.dev/kuberig-coding-resources/).
+If KubeRig is new for you, you may also want to read [KubeRig Resource Coding](/blog/2019/05/27/kuberig-coding-resources).
 
 # Example
 
 Lets jump right in with an example.
 
-![blog-configmap-example](/content/images/2019/07/blog-configmap-example.png)
+```kotlin
+@EnvResource
+fun basicConfigMap(): ConfigMapDsl {
+    return configMap {
+        metadata {
+            name("app-config")
+        }
+        data("env.url", environmentConfig("env.url"))
+        data("cert.pem", environmentFile("certs/app-cert.pem"))
+    }
+} 
+```
 
 What makes defining ConfigMaps with KubeRig so easy is mainly because of the environment support.
 

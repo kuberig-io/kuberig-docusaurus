@@ -6,7 +6,7 @@ author: Tom Eyckmans
 authorImageURL: https://kuberig.io/authors/tom-eyckmans.jpg
 ---
 
-After setting up your [local development](https://rigel.dev/kuberig-microk8s/) environment you may be wondering. Now what?
+After setting up your [local development](/blog/2019/05/25/kuberig-microk8s) environment you may be wondering. Now what?
 
 KubeRig works by scanning your Kotlin code for annotations. Methods that have the `@EnvResource` annotation will be used to generate a resource.
 

@@ -10,9 +10,9 @@ Today I am going to show you how to setup a KubeRig environment using the Kubern
 
 # KubeRig project setup
 
-In case you want to jump right in you can download or clone the [kuberig-empty](https://github.com/teyckmans/kuberig-empty) repository.
+In case you want to jump right in you can download or clone the [kuberig-starter](https://github.com/kuberig-io/kuberig-starter) repository.
 
-In case KubeRig is new for you or you want to know the details about the project setup. Please read [this](https://rigel.dev/kuberig-microk8s/) first.
+In case KubeRig is new for you or you want to know the details about the project setup. Please read [this](/blog/2019/05/25/kuberig-microk8s) first.
 
 # Create a DOKS cluster
 
@@ -38,11 +38,11 @@ With the following command we create an environment called dev based on the curr
 
 The new `--currentKubectlContext` flag is key.
 
-For details about what the task does when using the `--currentKubectlContext` flag please visit the [initEnvironment](https://rigel.dev/kuberig-init-environment/) task page.
+For details about what the task does when using the `--currentKubectlContext` flag please visit the [initEnvironment](/blog/2019/07/04/kuberig-init-environment) task page.
 
 The environment is now ready for use.
 
-Start [coding resources](https://rigel.dev/kuberig-coding-resources/) and execute the deployDevEnvironment task to deploy them.
+Start [coding resources](/blog/2019/05/27/kuberig-coding-resources) and execute the deployDevEnvironment task to deploy them.
 
 # Limitations
 
@@ -52,7 +52,7 @@ It is currently only known to work for Digital Ocean Kubernetes clusters created
 
 The Kubectl configuration file has a lot of possible ways to configure access to a Kubernetes cluster and it will take more work to make the `--currentKubectlContext` deal with them all.
 
-In case you run into problems please create an issue on [github](https://github.com/teyckmans/kuberig/issues) or jump in and create a pull-request.
+In case you run into problems please create an issue on [github](https://github.com/kuberig-io/kuberig/issues) or jump in and create a pull-request.
 
 # What is next?
 

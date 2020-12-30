@@ -249,4 +249,4 @@ Again a good time to commit
 ## What is next
 Let your imagination go crazy and use the power of Kotlin to come up with clever/clean ways to define your Kubernetes resources.
 
-More information about coding resources can be found in this [post](https://rigel.dev/kuberig-coding-resources/).
+More information about coding resources can be found in this [post](/blog/2019/05/27/kuberig-coding-resources).

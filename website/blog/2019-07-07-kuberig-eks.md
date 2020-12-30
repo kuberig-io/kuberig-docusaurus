@@ -10,9 +10,9 @@ From KubeRig version 0.0.30 on the `initEnvironment` task also supports Amazon E
 
 # KubeRig project setup
 
-In case you want to jump right in you can download or clone the [kuberig-empty](https://github.com/teyckmans/kuberig-empty) repository.
+In case you want to jump right in you can download or clone the [kuberig-starter](https://github.com/kuberig-io/kuberig-starter) repository.
 
-In case KubeRig is new for you or you want to know the details about the project setup. Please read [this](https://rigel.dev/kuberig-microk8s/) first.
+In case KubeRig is new for you or you want to know the details about the project setup. Please read [this](/blog/2019/05/25/kuberig-microk8s) first.
 
 # Create an EKS cluster
 
@@ -40,17 +40,17 @@ With the following command we create an environment called dev based on the curr
 
 The  `--currentKubectlContext` flag is key.
 
-For details about the `initEnvironment` task please visit the [initEnvironment](https://rigel.dev/kuberig-init-environment/) task page.
+For details about the `initEnvironment` task please visit the [initEnvironment](/blog/2019/07/04/kuberig-init-environment) task page.
 
-After the command completes you can start [coding resources](https://rigel.dev/kuberig-coding-resources/) and execute the deployDevEnvironment task to deploy them.
+After the command completes you can start [coding resources](/blog/2019/05/27/kuberig-coding-resources) and execute the deployDevEnvironment task to deploy them.
 
 # Limitations
 
 The `--currentKubectlContext` flag of the `initEnvironment` task is still brand new (available from KubeRig version 0.0.27).
 
-For limitations about the `initEnvironment` task please visit the [initEnvironment](https://rigel.dev/kuberig-init-environment/) task page.
+For limitations about the `initEnvironment` task please visit the [initEnvironment](/blog/2019/07/04/kuberig-init-environment) task page.
 
-In case you run into problems please create an issue on [github](https://github.com/teyckmans/kuberig/issues) or jump in and create a pull-request.
+In case you run into problems please create an issue on [github](https://github.com/kuberig-io/kuberig/issues) or jump in and create a pull-request.
 
 # What is next?
 

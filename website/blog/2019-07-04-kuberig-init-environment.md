@@ -10,10 +10,10 @@ On this page I am gathering some details on the `initEnvironment` task that woul
 
 # In Action
 
-- [KubeRig + microk8s](https://rigel.dev/kuberig-microk8s/)
-- [KubeRig + Digital Ocean Kubernetes (DOKS)](https://rigel.dev/kuberig-doks/)
-- [KubeRig + Google Kubernetes Engine (GKE)](https://rigel.dev/kuberig-gke/)
-- [KubeRig + Elastic Kubernetes Service (Amazon EKS)](https://rigel.dev/kuberig-eks/)
+- [KubeRig + microk8s](/blog/2019/05/25/kuberig-microk8s)
+- [KubeRig + Digital Ocean Kubernetes (DOKS)](/blog/2019/06/26/kuberig-doks)
+- [KubeRig + Google Kubernetes Engine (GKE)](/blog/2019/07/04/kuberig-gke)
+- [KubeRig + Elastic Kubernetes Service (Amazon EKS)](/blog/2019/07/07/kuberig-eks)
 - planned KubeRig + minikube
 - ...
 
@@ -66,7 +66,7 @@ Currently it is known to work for:
 - Google Kubernetes Engine
 - minikube
 
-In case you run into problems please create an issue on [github](https://github.com/teyckmans/kuberig/issues) or jump in and create a pull-request.
+In case you run into problems please create an issue on [github](https://github.com/kuberig-io/kuberig/issues) or jump in and create a pull-request.
 
 # Task Help
 
