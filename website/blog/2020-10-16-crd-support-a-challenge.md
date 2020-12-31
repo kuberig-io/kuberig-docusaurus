@@ -55,7 +55,7 @@ You can find the default installed API and the generated API specifications [her
 With a KubeRig DSL generator project set up. We can start to consume the KubeRig DSL.
 
 And it looks like this...
-![Result DSL usage example](/screenshots/kuberig-crd-dsl-tektoncd-pipeline-getting-started.png)
+![Result DSL usage example](/img/features/kuberig-crd-dsl-tektoncd-pipeline-getting-started.png)
 
 The KubeRig DSL generator project can be found [here](https://github.com/kuberig-io/kuberig-crd-dsl/tree/main/tektoncd-pipeline),
 and the example code [here](https://github.com/kuberig-io/kuberig-crd-dsl/blob/main/tektoncd-pipeline/src/test/kotlin/GettingStarted.kt).
