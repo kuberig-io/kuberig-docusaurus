@@ -25,7 +25,7 @@ to execution actions specifically for the environment.
 
 ### Deploy Task
 
-There is a `deploy` task for every environment. This task will scan
+There is a `deploy` task for every environment.
 
 This task will directly communicate with the Kubernetes API to create/update the resources that you have defined using the KubeRig DSL. 
 
