@@ -30,7 +30,7 @@ For example:
 
     package example
     
-    import eu.rigeldev.kuberig.core.annotations.EnvResource
+    import io.kuberig.annotations.EnvResource
     import kinds.v1.ConfigMapDsl
     import kinds.v1.configMap
     

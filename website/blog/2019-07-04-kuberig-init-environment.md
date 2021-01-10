@@ -83,7 +83,7 @@ If you run `help --task initEnvironment` you get details about what arguments th
          :initEnvironment
     
     Type
-         InitEnvironmentTask (eu.rigeldev.kuberig.gradle.tasks.InitEnvironmentTask)
+         InitEnvironmentTask (io.kuberig.gradle.tasks.InitEnvironmentTask)
     
     Options
          --apiServerUrl     The URL of the api server of your cluster
