@@ -49,8 +49,8 @@ Currently it is known to work for:
 In case you run into problems please create an issue on [github](https://github.com/kuberig-io/kuberig/issues) or jump in and create a pull-request.
 
 ## In Action
-- [Digital Ocean Kubernetes (DOKS)](https://www.rigel.dev/kuberig-doks/)
-- [Google Kubernetes Engine (GKE)](https://www.rigel.dev/kuberig-gke/)
-- [Elastic Kubernetes Service (Amazone EKS)](https://www.rigel.dev/kuberig-eks/)
-- [KubeRig + microk8s](https://www.rigel.dev/kuberig-microk8s/)
+- [Digital Ocean Kubernetes (DOKS)](https://kuberig.io/blog/2019/06/26/kuberig-doks)
+- [Google Kubernetes Engine (GKE)](https://kuberig.io/blog/2019/07/04/kuberig-gke)
+- [Elastic Kubernetes Service (Amazone EKS)](https://kuberig.io/blog/2019/07/07/kuberig-eks)
+- [KubeRig + microk8s](https://kuberig.io/blog/2019/05/25/kuberig-microk8s)
 
