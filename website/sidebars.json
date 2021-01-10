@@ -11,7 +11,10 @@
       "environment-support"
     ],
     "Resource Coding": [
-      "coding-resources"
+      "coding-resources",
+      "resource-grouping",
+      "resource-apply-action",
+      "dsl-details"
     ],
     "Code Samples": [
       "defining-a-configmap",
